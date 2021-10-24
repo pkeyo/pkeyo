@@ -1,38 +1,24 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
-</head>
+## Hi there, I'm Domino's Hub 👋
 
-## Hi, [Domino's Hub](https://github.com/pkeyo) is here.
+#### :raised_hand: About Me
 
-> Fresh Off the Boat. Delighted to make your acquaintance.
+- 🌟 Motto: One bad chapter does not make the book of your life.
+- 🌱 Hobby: Coding & 🏈 American Football & 🥎 Softball & 🧘 Yoga & more.
 
-- Developer.
-- Crazy engineer.
+- 🏢 Office: Singapore
+- ⚡ Fun fact: Oops! :laughing::laughing::laughing::laughing::laughing:
+- It’s been a pleasure meeting you!
 
+#### 🛠 Languages and Tools
 
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-35495c?style=plastic&logo=TypeScript&logoColor=default)
+![Vue.JS](https://img.shields.io/badge/-Vue.js-35495c?&style=plastic&logo=vue.js&logoColor=default)
+![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=plastic&logo=CSS&logoColor=default)
+![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)
+![React.JS](https://img.shields.io/badge/-React.js-35495c?&style=plastic&logo=React&logoColor=default)
 
-I am ...
+#### :trophy:My Works
 
-Working with my friends:
-
-![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-red?style=for-the-badge&logo=Intellij%20Idea&logoColor=default)
-![PyCharm](https://img.shields.io/badge/-PyCharm-375A81?style=for-the-badge&logo=PyCharm&logoColor=default)
-![WebStorm](https://img.shields.io/badge/-WebStorm-51A5DD?style=for-the-badge&logo=Webstorm&logoColor=default)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white)
-
-
-Using these techniques to explore the world:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&logoColor=default)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-ec4736?&style=flat&logo=Swift&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![Vue.JS](https://img.shields.io/badge/-Vue.js-35495c?&style=flat&logo=vue.js&logoColor=default)
-
-
-
----
-
-I had a great time.
+| <a href="https://github.com/pkeyo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pkeyo&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/pkeyo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkeyo&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
